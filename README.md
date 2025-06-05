@@ -233,4 +233,4 @@ screenshots/*.png
 * **Demo Site:** [Katalon CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/)
 * **Allure Framework:** Qameta Software
 * **WebDriver Manager:** Sergey Pugachev
-* **Inspiration:** https://github.com/Aniket2683 
+* **Inspiration:** Mr. Aniket
